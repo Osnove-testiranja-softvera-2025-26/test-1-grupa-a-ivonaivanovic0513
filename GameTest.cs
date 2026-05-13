@@ -27,7 +27,7 @@ public class GameTest
         Assert.AreEqual(expectedPosition, actualPosition);
 		return PostionOutsideOfMapExeption;
     }
-}
+} 
 #endregion
 #region F2
 [Test]
