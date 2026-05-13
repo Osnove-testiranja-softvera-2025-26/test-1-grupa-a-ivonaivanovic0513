@@ -1,0 +1,5 @@
+Direction: Up, Down, Left, Right, Forward, Backward
+Speed: Slow, Normal, Fast
+TileType: Standard, MapBarrier, Hidden
+TileContent: Empty, Gold, RevealHiddenItem
+HasRevealItem: True, False
